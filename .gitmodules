@@ -1,3 +1,7 @@
 [submodule "mysub/submodulerepo"]
 	path = mysub/submodulerepo
 	url = https://github.com/ajosephantony/submodulerepo.git
+[submodule "submodulerepo"]
+	path = submodulerepo
+	url = https://github.com/ajosephantony/submodulerepo.git
+	branch = release
