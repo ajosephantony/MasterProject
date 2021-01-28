@@ -9,3 +9,6 @@
 	path = thirdproject
 	url = https://github.com/ajosephantony/thirdproject.git
 	branch = master
+[submodule "submodules/thirdproject"]
+	path = submodules/thirdproject
+	url = https://github.com/ajosephantony/thirdproject.git
