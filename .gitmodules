@@ -5,3 +5,7 @@
 	path = submodulerepo
 	url = https://github.com/ajosephantony/submodulerepo.git
 	branch = release
+[submodule "thirdproject"]
+	path = submodulerepo
+	url = https://github.com/ajosephantony/thirdproject.git
+	branch = master
