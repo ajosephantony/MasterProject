@@ -6,6 +6,6 @@
 	url = https://github.com/ajosephantony/submodulerepo.git
 	branch = release
 [submodule "thirdproject"]
-	path = submodulerepo
+	path = thirdproject
 	url = https://github.com/ajosephantony/thirdproject.git
 	branch = master
