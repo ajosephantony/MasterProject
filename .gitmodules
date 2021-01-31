@@ -1,4 +1,4 @@
-[submodule "SubModules/SDR/SDR"]
-	path = SubModules/SDR/SDR
+[submodule "SubModules/SDR"]
+	path = SubModules/SDR
 	url = https://github.com/ajosephantony/SDR.git
 	branch = release
