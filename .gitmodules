@@ -1,0 +1,4 @@
+[submodule "HMIApp"]
+	path = HMIApp
+	url = https://github.com/ajosephantony/HMIApp.git
+	branch = release
