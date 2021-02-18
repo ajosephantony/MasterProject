@@ -2,3 +2,7 @@
 	path = SubMobules/SDR
 	url = https://github.com/ajosephantony/SDR.git
 	branch = release
+[submodule "SubModules/HMIApp"]
+	path = SubModules/HMIApp
+	url = https://github.com/ajosephantony/HMIApp.git
+	branch = release
