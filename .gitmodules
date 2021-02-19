@@ -2,7 +2,3 @@
 	path = HMIApp
 	url = https://github.com/ajosephantony/HMIApp.git
 	branch = release
-[submodule "SM/HMIApp"]
-	path = SM/HMIApp
-	url = https://github.com/ajosephantony/HMIApp.git
-	branch = release
